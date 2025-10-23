@@ -133,8 +133,8 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "icon": "lucide-ghost",
+              "title": "outgoing-link"
             }
           },
           {
@@ -176,6 +176,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,6 +191,42 @@
   },
   "active": "a2dc9db787cf23a9",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Templates/Bases/Trips.base",
+    "Templates/Bases/Templates.base",
+    "Templates/Bases/Shows.base",
+    "Templates/Bases/Related.base",
+    "Templates/Bases/Recipes.base",
+    "Templates/Bases/Ratings.base",
+    "Templates/Bases/Projects.base",
+    "Templates/Bases/Products.base",
+    "Templates/Bases/Posts.base",
+    "Templates/Bases/Podcasts.base",
+    "Templates/Bases/Podcast episodes.base",
+    "Templates/Video Game Template.md",
+    "Templates/Video Game Genre Template.md",
+    "Templates/Trip Template.md",
+    "Templates/Stock Trade Template.md",
+    "Templates/Show Template.md",
+    "Templates/Show Episode Template.md",
+    "Templates/Restaurant Template.md",
+    "Templates/Recipe Template.md",
+    "Templates/Real Estate Template.md",
+    "Templates/Quote Template.md",
+    "Templates/Project Template.md",
+    "Templates/Product Type Template.md",
+    "Templates/Product Template.md",
+    "Templates/Post Template.md",
+    "Templates/Podcast Template.md",
+    "Templates/Podcast Episode Template.md",
+    "Templates/Place Type Template.md",
+    "Templates/Place Template.md",
+    "Templates/People Template.md",
+    "Templates/Musician Template.md",
+    "Templates/Music Genre Template.md",
+    "Templates/Movie Template.md",
+    "Templates/Movie Genre Template.md",
+    "Templates/Monthly Note Template.md",
+    "Templates/Meetings List Template.md",
+    "Attachments/out-of-control.jpg"
   ]
 }
